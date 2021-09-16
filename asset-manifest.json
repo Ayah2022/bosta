@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bosta/static/css/main.f1428842.chunk.css",
+    "main.js": "/bosta/static/js/main.d3650f4f.chunk.js",
+    "main.js.map": "/bosta/static/js/main.d3650f4f.chunk.js.map",
+    "runtime-main.js": "/bosta/static/js/runtime-main.7221715e.js",
+    "runtime-main.js.map": "/bosta/static/js/runtime-main.7221715e.js.map",
+    "static/js/2.719a7160.chunk.js": "/bosta/static/js/2.719a7160.chunk.js",
+    "static/js/2.719a7160.chunk.js.map": "/bosta/static/js/2.719a7160.chunk.js.map",
+    "static/js/3.62a58dfe.chunk.js": "/bosta/static/js/3.62a58dfe.chunk.js",
+    "static/js/3.62a58dfe.chunk.js.map": "/bosta/static/js/3.62a58dfe.chunk.js.map",
+    "index.html": "/bosta/index.html",
+    "static/css/main.f1428842.chunk.css.map": "/bosta/static/css/main.f1428842.chunk.css.map",
+    "static/js/2.719a7160.chunk.js.LICENSE.txt": "/bosta/static/js/2.719a7160.chunk.js.LICENSE.txt",
+    "static/media/Logo.26249744.svg": "/bosta/static/media/Logo.26249744.svg",
+    "static/media/photo.a06e5e1f.jpg": "/bosta/static/media/photo.a06e5e1f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7221715e.js",
+    "static/js/2.719a7160.chunk.js",
+    "static/css/main.f1428842.chunk.css",
+    "static/js/main.d3650f4f.chunk.js"
+  ]
+}
